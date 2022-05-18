@@ -1,0 +1,516 @@
+{
+    "mic_dejun":
+            [
+                {
+                    "nume": "Iaurt grecesc",
+                    "greutate": 100,
+                    "calorii": 48,
+                    "carbohidrati": 4,
+                    "proteine": 9
+                },
+                {
+                    "nume": "Fulgi de Secara",
+                    "greutate": 100,
+                    "calorii": 333,
+                    "carbohidrati": 58,
+                    "proteine": 12
+                },
+                {
+                    "nume": "Nectarine",
+                    "greutate": 100,
+                    "calorii": 44,
+                    "carbohidrati": 11,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Mere rosii",
+                    "greutate": 100,
+                    "calorii": 24,
+                    "carbohidrati": 14,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Mure",
+                    "greutate": 100,
+                    "calorii": 43,
+                    "carbohidrati": 11,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Pere",
+                    "greutate": 100,
+                    "calorii": 57,
+                    "carbohidrati": 16,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Portocale",
+                    "greutate": 100,
+                    "calorii": 47,
+                    "carbohidrati": 12,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Capsuni",
+                    "greutate": 100,
+                    "calorii": 32,
+                    "carbohidrati": 8,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Fulgi de ovaz integral",
+                    "greutate": 100,
+                    "calorii": 368, 
+                    "carbohidrati": 58,
+                    "proteine": 12
+                },
+                {
+                    "nume": "Ciocolata neagra",
+                    "greutate": 100,
+                    "calorii": 534,
+                    "carbohidrati": 50,
+                    "proteine": 3
+                },
+                {
+                    "nume": "Cas afumat",
+                    "greutate": 100,
+                    "calorii": 272,
+                    "carbohidrati": 8,
+                    "proteine": 20
+                },
+                {
+                    "nume": "Rosii Cherry",
+                    "greutate": 100,
+                    "calorii": 26,
+                    "carbohidrati": 4,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Masline negre",
+                    "greutate": 100,
+                    "calorii": 107,
+                    "carbohidrati": 7,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Masline verzi",
+                    "greutate": 100,
+                    "calorii": 197,
+                    "carbohidrati": 0,
+                    "proteine": 0 
+
+                },
+                {
+                    "nume": "Paine alba",
+                    "greutate": 100,
+                    "calorii": 245,
+                    "carbohidrati": 51,
+                    "proteine": 7
+                },
+                {
+                    "nume": "Telemea de oaie",
+                    "greutate": 100,
+                    "calorii": 306,
+                    "carbohidrati": 0,
+                    "proteine": 20
+                },
+                {
+                    "nume": "Ou fiert",
+                    "greutate": 100,
+                    "calorii": 155,
+                    "carbohidrati": 1,
+                    "proteine": 13
+                }
+            ],
+    "pranz":
+            [
+                {
+                    "nume": "Ciuperci feliate",
+                    "greutate": 100,
+                    "calorii": 18,
+                    "carbohidrati": 2,
+                    "proteine": 2
+                },
+                {   
+                    "nume": "Ardei gras verde",
+                    "greutate": 100,
+                    "calorii": 17,
+                    "carbohidrati": 3,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Paine toast cu faina de secara",
+                    "greutate": 100,
+                    "calorii": 242,
+                    "carbohidrati": 42,
+                    "proteine": 6
+                },
+                {
+                    "nume": "Piept de pui gril",
+                    "greutate": 100,
+                    "calorii": 132,
+                    "carbohidrati": 0,
+                    "proteine": 24
+                },
+                {
+                    "nume": "Rosii proaspete",
+                    "greutate": 100,
+                    "calorii": 18,
+                    "carbohidrati": 4,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Ceapa alba",
+                    "greutate": 100,
+                    "calorii": 40,
+                    "carbohidrati": 10, 
+                    "proteine": 1
+                },
+                {
+                    "nume": "Ulei de masline",
+                    "greutate": 100,
+                    "calorii": 820,
+                    "carbohidrati": 0,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Castraveti proaspeti",
+                    "greutate": 100,
+                    "calorii": 15,
+                    "carbohidrati": 3,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Pomelo",
+                    "greutate": 100,
+                    "calorii": 38,
+                    "carbohidrati": 10,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Pulpa de pui grill",
+                    "greutate": 100,
+                    "calorii": 114, 
+                    "carbohidrati": 0,
+                    "proteine": 22
+                },
+                {
+                    "nume": "Varza alba",
+                    "greutate": 100,
+                    "calorii": 25,
+                    "carbohidrati": 6,
+                    "proteine": 2
+                },
+                {
+                    "nume": "Gogosari",
+                    "greutate": 100,
+                    "calorii": 31, 
+                    "carbohidrati": 6,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Rosii pasate",
+                    "greutate": 100,
+                    "calorii": 23,
+                    "carbohidrati": 4,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Carnaciori de pui picanti",
+                    "greutate": 100,
+                    "calorii": 174,
+                    "carbohidrati": 0,
+                    "proteine": 16
+                },
+                {
+                    "nume": "Fasole alba",
+                    "greutate": 100,
+                    "calorii": 81,
+                    "carbohidrati": 11, 
+                    "proteine": 5
+                },
+                {
+                    "nume": "Piept de pui fiert",
+                    "greutate": 100,
+                    "calorii": 144,
+                    "carbohidrati": 0,
+                    "proteine": 30
+                },
+                {
+                    "nume": "Bors, amestec de legume",
+                    "greutate": 100,
+                    "calorii": 37,
+                    "carbohidrati": 7,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Morcov fiert",
+                    "greutate": 100,
+                    "calorii": 35,
+                    "carbohidrati": 8,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Dovleac copt",
+                    "greutate": 100,
+                    "calorii": 26,
+                    "carbohidrati": 7,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Castraveti in otet",
+                    "greutate": 100,
+                    "calorii": 12,
+                    "carbohidrati": 3,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Telemea de vaca light",
+                    "greutate": 100,
+                    "calorii": 186,
+                    "carbohidrati": 0,
+                    "proteine": 22
+                },
+                {
+                    "nume": "Sfecla rosie fiarta",
+                    "greutate": 100,
+                    "calorii": 44,
+                    "carbohidrati": 10,
+                    "proteine": 2
+                },
+                {
+                    "nume": "Dovlecei la gratar",
+                    "greutate": 100,
+                    "calorii": 17,
+                    "carbohidrati": 3,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Ciuperci la gratar",
+                    "greutate": 100,
+                    "calorii": 28,
+                    "carbohidrati": 3,
+                    "proteine": 3
+                },
+                {
+                    "nume": "Usturoi crud",
+                    "greutate": 100,
+                    "calorii": 148,
+                    "carbohidrati": 33, 
+                    "proteine": 0
+                },
+                {
+                    "nume": "Mamaliga",
+                    "greutate": 100,
+                    "calorii": 70,
+                    "carbohidrati": 15,
+                    "proteine": 2
+                },
+                {
+                    "nume": "Paine alba",
+                    "greutate": 100,
+                    "calorii": 245,
+                    "carbohidrati": 51,
+                    "proteine": 7
+                },
+                {
+                    "nume": "Crap la gratar",
+                    "greutate": 100,
+                    "calorii": 203,
+                    "carbohidrati": 1
+                    "proteine": 13
+                },
+                {
+                    "nume": "Ciorba de legume",
+                    "greutate": 100,
+                    "calorii": 21,
+                    "carbohidrati": 3,
+                    "proteine": 0
+                }
+            ],
+    "cina":   
+            [
+                {
+                    "nume": "Somon afumat file",
+                    "greutate": 100,
+                    "calorii": 206,
+                    "carbohidrati": 2,
+                    "proteine": 17
+                },
+                {
+                    "nume": "Paine toast cu faina de secara",
+                    "greutate": 100,
+                    "calorii": 242,
+                    "carbohidrati": 42,
+                    "proteine": 6
+                },
+                {
+                    "nume": "Ulei de masline",
+                    "greutate": 100,
+                    "calorii": 820,
+                    "carbohidrati": 0,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Ardei gras verde",
+                    "greutate": 100,
+                    "calorii": 17,
+                    "carbohidrati": 3,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Rosii proaspete",
+                    "greutate": 100,
+                    "calorii": 18,
+                    "carbohidrati": 4,
+                    "proteine": 1  
+                },
+                {
+                    "nume": "Ceapa alba",
+                    "greutate": 100,
+                    "calorii": 40,
+                    "carbohidrati": 10, 
+                    "proteine": 1
+                },
+                {
+                    "nume": "Castraveti proaspeti",
+                    "greutate": 100,
+                    "calorii": 15,
+                    "carbohidrati": 3,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Piept de pui gril",
+                    "greutate": 100,
+                    "calorii": 132,
+                    "carbohidrati": 0,
+                    "proteine": 24
+                },
+                {
+                    "nume": "Usturoi crud",
+                    "greutate": 100,
+                    "calorii": 148,
+                    "carbohidrati": 33, 
+                    "proteine": 0
+                },
+                {
+                    "nume": "Telemea de oaie",
+                    "greutate": 100,
+                    "calorii": 306,
+                    "carbohidrati": 0,
+                    "proteine": 20
+                },
+                {
+                    "nume": "Carnaciori de pui picanti",
+                    "greutate": 100,
+                    "calorii": 174,
+                    "carbohidrati": 0,
+                    "proteine": 16
+                },
+                {
+                    "nume": "Paine sandwich neagra",
+                    "greutate": 100,
+                    "calorii": 233,
+                    "carbohidrati": 44,
+                    "proteine": 10
+                },
+                {
+                    "nume": "Telemea de vaca light",
+                    "greutate": 100,
+                    "calorii": 186,
+                    "carbohidrati": 0,
+                    "proteine": 22
+                },
+                {
+                    "nume": "Gogosari",
+                    "greutate": 100,
+                    "calorii": 31, 
+                    "carbohidrati": 6,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Pulpa de pui grill",
+                    "greutate": 100,
+                    "calorii": 114, 
+                    "carbohidrati": 0,
+                    "proteine": 22
+                },
+                {
+                    "nume": "Piept de pui fiert",
+                    "greutate": 100,
+                    "calorii": 144,
+                    "carbohidrati": 0,
+                    "proteine": 30
+                },
+                {
+                    "nume": "Rosii pasate",
+                    "greutate": 100,
+                    "calorii": 23,
+                    "carbohidrati": 4,
+                    "proteine": 0
+                },
+                {
+                    "nume": "Legume, mix pentru tigaie",
+                    "greutate": 100,
+                    "calorii": 38,
+                    "carbohidrati": 6,
+                    "proteine": 2 
+                },
+                {
+                    "nume": "Dovleac copt",
+                    "greutate": 100,
+                    "calorii": 26,
+                    "carbohidrati": 7,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Ciuperci feliate",
+                    "greutate": 100,
+                    "calorii": 18,
+                    "carbohidrati": 2,
+                    "proteine": 2
+                },
+                {
+                    "nume": "Castraveti in otet",
+                    "greutate": 100,
+                    "calorii": 12,
+                    "carbohidrati": 3,
+                    "proteine": 1
+                },
+                {
+                    "nume": "Sfecla rosie fiarta",
+                    "greutate": 100,
+                    "calorii": 44,
+                    "carbohidrati": 10,
+                    "proteine": 2
+                },
+                {
+                    "nume": "Ciuperci la gratar",
+                    "greutate": 100,
+                    "calorii": 28,
+                    "carbohidrati": 3,
+                    "proteine": 3
+                },
+                {
+                    "nume": "Muschi de porc afumat",
+                    "greutate": 100,
+                    "calorii": 138,
+                    "carbohidrati": 2,
+                    "proteine": 21
+                },
+                {
+                    "nume": "Paine alba",
+                    "greutate": 100,
+                    "calorii": 245,
+                    "carbohidrati": 51,
+                    "proteine": 7
+                },
+                {
+                    "nume": "Sfecla rosie fiarta",
+                    "greutate": 100,
+                    "calorii": 44,
+                    "carbohidrati": 10,
+                    "proteine": 2
+                }
+            ]
+}
