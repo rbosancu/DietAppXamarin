@@ -1,0 +1,15 @@
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\bin\Debug\netstandard2.0\DietApp.deps.json
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\bin\Debug\netstandard2.0\DietApp.dll
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\bin\Debug\netstandard2.0\DietApp.pdb
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\DietApp.csproj.AssemblyReference.cache
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\DietApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\DietApp.AssemblyInfoInputs.cache
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\DietApp.AssemblyInfo.cs
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\DietApp.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\DietApp.dll
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\DietApp.pdb
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\ref\DietApp.dll
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Robert\Disertatie\Coding\DietApp\DietApp\bin\Debug\netstandard2.0\ref\DietApp.dll
